@@ -22,7 +22,7 @@ ul{
     }
 
 
-    .rotate_image {
+    img {
         -webkit-transform: rotate(45deg);
         -moz-transform: rotate(45deg);
         -ms-transform: rotate(45deg);
