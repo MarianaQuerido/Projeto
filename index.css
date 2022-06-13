@@ -1,0 +1,157 @@
+
+h1{
+       color: whitesmoke;
+}
+
+body{
+    background-color: mediumpurple;
+	line-height: 30px;
+	color: #ffffff;
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+}
+
+
+#container {
+	margin: 0 auto;
+}
+
+p {
+	text-align: justify;
+
+	padding-left: 5%;
+	padding-right:5%;
+	
+	padding-top: 60px;
+	font-size: 18px;
+}
+
+
+	
+
+
+.title{
+    font-size: 25px;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	text-align: center;
+
+}
+
+nav {
+	margin: 3% 0;
+	background-color: #7a18db;
+}
+
+nav ul {
+	padding: 0;
+    margin: 0;
+	list-style: none;
+	position: relative;
+	}
+	
+nav ul li {
+	display:inline-block;
+	background-color: #7a18db;
+	}
+
+nav a {
+	display:block;
+	padding: 0 50px;
+	color:#FFF;
+	font-size:18px;
+	line-height: 40px;
+	text-decoration:none;
+}
+
+nav a:hover { 
+	background-color: #000000; 
+}
+
+
+nav ul ul {
+	display: none;
+	position: absolute; 
+	top: 40px; 
+}
+	
+
+nav ul li:hover > ul {
+	display:inherit;
+}
+	
+
+nav ul ul li {
+	width:260px;
+	float:none;
+	display:list-item;
+	position: relative;
+}
+
+img{
+	padding:5% 5% 10% 5%;
+	padding-top: 40px;
+	display: flex;
+	
+
+	
+}
+
+
+
+.title-page{
+	margin-left:32%;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 22;
+	text-align: center;
+
+}
+
+.malaquite{
+	display:flex
+	
+}
+
+.aragonite{
+	display: flex;
+   justify-content:flex-end;
+   
+
+   
+}
+
+.espatodaislandia{
+	display: flex;
+
+}
+
+.hematite{
+	display:flex;
+	
+}
+
+.magnetite{
+	display:flex;
+}
+
+.quartzo{
+	display:flex;
+}
+
+.Talco{
+	display: flex;
+
+}
+
+.muscovite{
+	display: flex;
+}
+
+
+
+
+
+.footer{
+display: flex ;
+
+}
+
